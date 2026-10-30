@@ -1,0 +1,1 @@
+print("Hello! Python Project Is Now Started!")
